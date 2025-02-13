@@ -33,3 +33,6 @@ TELEGRAM_BOT_TOKEN="replace_on_your_token"
 QWEN_TEXT_API_KEY="replace_on_your_token"
 ```
 5. Launch main.py
+```
+python main.py
+```
